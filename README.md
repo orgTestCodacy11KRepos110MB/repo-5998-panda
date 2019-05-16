@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/Panda-VPN/panda/releases/download/windowsv2.0.0/panda-setup-v2.0.0.exe
+https://github.com/Panda-VPN/panda/releases/download/windowsv2.0.1/Panda_Setup_2.0.1.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,7 +10,7 @@ Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloadi
 
 ## Mac：
 
-https://github.com/Panda-VPN/panda/releases/download/macosv2.0.0/pandav2.0.0.dmg
+https://github.com/Panda-VPN/panda/releases/download/macosv2.0.1/panda2.0.1.dmg
 
 支持MacOS 11+
 
@@ -18,7 +18,7 @@ Support: MacOS 10.10+
 
 ## Android：
 
-https://github.com/Panda-VPN/panda/releases/download/android.v1.3.0/pandavpnprov1.3.0.apk
+https://github.com/Panda-VPN/panda/releases/download/android.v1.3.2/pandavpnv1.3.2.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
