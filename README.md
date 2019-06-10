@@ -26,7 +26,7 @@ https://github.com/Panda-VPN/panda/releases/download/android.v1.3.4/pandavpnprov
 
 Support: Android 5.0+
 
-## IOS：
+## iOS：
 
 支持iOS 9以上
 
@@ -41,7 +41,7 @@ Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro8
 Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro1
 
 
-## IOS企业版 (iOS Enterprise Edition)：
+## iOS企业版 (iOS Enterprise Edition)：
 
 https://www.pandaconno.xyz/download-ios?tdsourcetag=s_pcqq_aiomsg
 
