@@ -41,3 +41,10 @@ Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro8
 Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro1
 
 
+## IOS企业版 (iOS Enterprise Edition)：
+
+https://www.pandaconno.xyz/download-ios?tdsourcetag=s_pcqq_aiomsg
+
+支持iOS 9以上
+
+Support: iOS 9+
