@@ -38,7 +38,7 @@ Please switch to the following US App Store account and search "pandavpn" to dow
 
 Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro9
 
-Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro1
+Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro2
 
 
 ## iOS企业版 (iOS Enterprise Edition)：
