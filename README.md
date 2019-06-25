@@ -14,7 +14,7 @@ https://github.com/Panda-VPN/panda/releases/download/macosv2.0.1/panda2.0.1.dmg
 
 支持MacOS 11+
 
-Support: MacOS 10.10+
+Support: MacOS 11+
 
 ## Android：
 
