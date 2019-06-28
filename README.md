@@ -1,4 +1,4 @@
-# PandaVPN 
+# Panda VPN Pro
 
 ## Windows：
 
@@ -32,7 +32,7 @@ Support: Android 5.0+
 
 Support: iOS 9+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“pandavpn”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn”进行下载：
 
 Please switch to the following US App Store account and search "pandavpn" to download
 
@@ -48,3 +48,29 @@ https://www.pandaconno.xyz/download-ios?tdsourcetag=s_pcqq_aiomsg
 支持iOS 9以上
 
 Support: iOS 9+
+
+# Panda VPN Free
+
+## Android：
+
+https://github.com/Panda-VPN/panda/releases/download/androidfree.v1.0.4/pandavpnfreev1.0.4.apk
+
+或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
+
+支持Android 5.0+
+
+Support: Android 5.0+
+
+## iOS：
+
+支持iOS 9以上
+
+Support: iOS 9+
+
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn”进行下载：
+
+Please switch to the following US App Store account and search "pandavpn" to download
+
+Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro10
+
+Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro2
