@@ -6,7 +6,7 @@ https://github.com/Panda-VPN/panda/releases/download/windowsv2.0.4/Panda_Setup_2
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
-Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloading and installing Panda
+Support: Win7/Win8/Win10, please exit the anti-virus software before downloading and installing Panda
 
 ## Mac：
 
