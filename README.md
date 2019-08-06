@@ -32,9 +32,9 @@ Support: Android 5.0+
 
 Support: iOS 9+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn pro”进行下载：
 
-Please switch to the following US App Store account and search "pandavpn" to download
+Please switch to the following US App Store account and search "pandavpn pro" to download
 
 Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro13
 
@@ -58,9 +58,9 @@ Support: Android 5.0+
 
 Support: iOS 9+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn free”进行下载：
 
-Please switch to the following US App Store account and search "pandavpn" to download
+Please switch to the following US App Store account and search "pandavpn free" to download
 
 Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro13
 
