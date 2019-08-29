@@ -18,7 +18,7 @@ Support: MacOS 11+
 
 ## Android：
 
-https://github.com/Panda-VPN/panda/releases/download/android.v1.5.0/pandavpnprov1.5.0.apk
+https://github.com/Panda-VPN/panda/releases/download/android.v1.5.2/pandavpnprov1.5.2.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -44,7 +44,7 @@ Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro2
 
 ## Android：
 
-https://github.com/Panda-VPN/panda/releases/download/androidfree.v1.2.0/pandavpnfreev1.2.0.apk
+https://github.com/Panda-VPN/panda/releases/download/androidfree.v1.2.2/pandavpnfreev1.2.2.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
