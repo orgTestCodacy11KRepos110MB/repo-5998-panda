@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/windowsv2.0.6/Panda_Setup_2.0.6.exe
+https://github.com/PandaVPN/panda/releases/download/windowsv2.0.7/Panda_Setup_2.0.7.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,7 +10,7 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-https://github.com/PandaVPN/panda/releases/download/macosv2.0.6/Panda2.0.6.dmg
+https://github.com/PandaVPN/panda/releases/download/macosv2.0.7/Panda2.0.7.dmg
 
 支持MacOS 11+
 
@@ -64,6 +64,6 @@ Please switch to the following US App Store account and search "pandavpn free" t
 
 Apple ID: uf30try5@icloud.com    密码(Password): Pandapro2
 
-Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro2
+Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro3
 
 （请在AppStore中切换AppleID）
