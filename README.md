@@ -38,7 +38,7 @@ Please switch to the following US App Store account and search "pandavpn pro" to
 
 Apple ID: uf30try5@icloud.com    密码(Password): Pandapro3
 
-Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro3
+Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro14
 
 # Panda VPN Free
 
@@ -64,6 +64,6 @@ Please switch to the following US App Store account and search "pandavpn free" t
 
 Apple ID: uf30try5@icloud.com    密码(Password): Pandapro3
 
-Apple ID: pandaprop2@outlook.com 密码(Password): Pandapro3
+Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro14
 
 （请在AppStore中切换AppleID）
