@@ -12,9 +12,9 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 https://github.com/PandaVPN/panda/releases/download/macosv2.0.7/Panda2.0.7.dmg
 
-支持MacOS 11+
+支持MacOS 10.10+
 
-Support: MacOS 11+
+Support: MacOS 10.10+
 
 ## Android：
 
@@ -28,9 +28,9 @@ Support: Android 5.0+
 
 ## iOS：
 
-支持iOS 9以上
+支持iOS 11以上
 
-Support: iOS 9+
+Support: iOS 11+
 
 PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn pro”进行下载：
 
@@ -39,6 +39,7 @@ Please switch to the following US App Store account and search "pandavpn pro" to
 Apple ID: uf30try5@icloud.com    密码(Password): Pandapro3
 
 Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro14
+（请在AppStore中切换AppleID）
 
 # Panda VPN Free
 
@@ -54,9 +55,9 @@ Support: Android 5.0+
 
 ## iOS：
 
-支持iOS 9以上
+支持iOS 11以上
 
-Support: iOS 9+
+Support: iOS 11+
 
 PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn free”进行下载：
 
