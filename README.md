@@ -59,7 +59,7 @@ Support: Android 5.0+
 
 Support: iOS 11+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn free”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn lite”进行下载：
 
 Please switch to the following US App Store account and search "pandavpn free" to download
 
