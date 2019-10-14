@@ -16,7 +16,7 @@ https://github.com/PandaVPN/panda/releases/download/macosv2.0.7/Panda2.0.7.dmg
 
 Support: MacOS 10.10+
 
-## Android：
+## Android (Panda VPN Pro - Fastest, Private, Secure VPN Proxy)：
 
 https://github.com/PandaVPN/panda/releases/download/android.v1.5.4/pandavpnprov1.5.4.apk
 
@@ -26,7 +26,7 @@ https://github.com/PandaVPN/panda/releases/download/android.v1.5.4/pandavpnprov1
 
 Support: Android 5.0+
 
-## iOS：
+## iOS (Panda VPN Pro)：
 
 支持iOS 11以上
 
@@ -43,7 +43,7 @@ Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro14
 
 # Panda VPN Free
 
-## Android：
+## Android (Panda VPN Free -The best and fastest free VPN)：
 
 https://github.com/Panda-VPN/panda/releases/download/androidfree.v1.2.2/pandavpnfreev1.2.2.apk
 
@@ -53,15 +53,15 @@ https://github.com/Panda-VPN/panda/releases/download/androidfree.v1.2.2/pandavpn
 
 Support: Android 5.0+
 
-## iOS：
+## iOS (Panda VPN Lite)：
 
 支持iOS 11以上
 
 Support: iOS 11+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn lite”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn”进行下载：
 
-Please switch to the following US App Store account and search "pandavpn free" to download
+Please switch to the following US App Store account and search "panda vpn" to download
 
 Apple ID: uf30try5@icloud.com    密码(Password): Pandapro3
 
