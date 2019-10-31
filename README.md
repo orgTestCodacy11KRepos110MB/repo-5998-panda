@@ -45,7 +45,7 @@ Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro14
 
 ## Android (Panda VPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v1.4.1/pandavpnfreev1.4.1.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v1.4.2/pandavpnfreev1.4.2.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
