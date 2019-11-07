@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/windowsv2.0.8/Panda_Setup_2.0.8.exe
+https://github.com/PandaVPN/panda/releases/download/windowsv3.0.0/Panda_Setup_3.0.0.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
