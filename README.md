@@ -10,7 +10,7 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-https://github.com/PandaVPN/panda/releases/download/macosv2.0.8/Panda2.0.8.dmg
+https://github.com/PandaVPN/panda/releases/download/macosv3.0.0/Panda3.0.0.dmg
 
 支持MacOS 10.10+
 
