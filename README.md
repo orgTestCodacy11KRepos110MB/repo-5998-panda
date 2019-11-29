@@ -42,7 +42,7 @@ Apple ID: uf30try5@icloud.com    密码(Password): Pandapro4
 
 Apple ID: pandaprop1@outlook.com 密码(Password): Pandapro17
 
-<font color=#FF0000 >注意：（重要！！！）</font>
+<font color=red >注意：（重要！！！）</font>
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
 2. 下载完Panda以后，请及时退出账号
 
