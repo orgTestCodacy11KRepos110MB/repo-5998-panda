@@ -18,7 +18,7 @@ Support: MacOS 10.10+
 
 ## Android (Panda VPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v3.1.0/android.v3.1.0.apk
+https://github.com/PandaVPN/panda/releases/download/android.v4.1.0/android.v4.1.0.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -58,7 +58,7 @@ Please follow the above 2 steps, otherwise your phone could be locked!
 
 ## Android (Panda VPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v1.6.0/pandavpnfreev1.6.0.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v2.1.0/pandavpnfreev2.1.0.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
