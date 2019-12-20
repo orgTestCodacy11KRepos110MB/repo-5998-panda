@@ -38,9 +38,9 @@ PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜�
 
 Please switch to the following US App Store account and search "pandavpn pro" to download
 
-Apple ID: uf30try5@icloud.com    密码(Password): Pandapro4
-
 Apple ID：pandaprop1@outlook.com  密码：Pandapro17
+
+Apple ID：pandaprop2@outlook.com  密码：Pandapro3
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
