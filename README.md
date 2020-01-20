@@ -40,7 +40,7 @@ Please switch to the following US App Store account and search "pandavpn pro" to
 
 Apple ID：pandaprop1@outlook.com  密码：Pandapro18
 
-Apple ID：pandaprop2@outlook.com  密码：Pandapro3
+Apple ID：pandaprop3@outlook.com  密码：Pandapro1
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
@@ -80,7 +80,7 @@ Please switch to the following US App Store account and search "panda vpn" to do
 
 Apple ID：pandaprop1@outlook.com  密码：Pandapro18
 
-Apple ID：pandaprop2@outlook.com  密码：Pandapro3
+Apple ID：pandaprop3@outlook.com  密码：Pandapro1
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
