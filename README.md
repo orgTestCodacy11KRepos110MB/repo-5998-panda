@@ -45,6 +45,7 @@ Apple ID：pandaprop3@outlook.com  密码：Pandapro1
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
 2. 下载完Panda以后，请及时退出账号
+3. 请勿回答任何安全提示问题
 
 请务必遵守以上2条，不然手机有被锁的风险！
 
@@ -78,13 +79,14 @@ PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜�
 
 Please switch to the following US App Store account and search "panda vpn" to download
 
-Apple ID：pandaprop1@outlook.com  密码：Pandapro18
+Apple ID：pandaprop3@outlook.com  密码：Pandapro1
 
 Apple ID：pandaprop2@outlook.com  密码：Pandapro3
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
 2. 下载完Panda以后，请及时退出账号
+3. 请勿回答任何安全提示问题
 
 请务必遵守以上2条，不然手机有被锁的风险！
 
