@@ -18,7 +18,7 @@ Support: MacOS 10.10+
 
 ## Ubuntu:
 
-https://github.com/PandaVPN/panda/releases/download/linuxosv1.0.0/Panda1.0.0.AppImage
+https://github.com/PandaVPN/panda/releases/download/linuxv1.0.0/Panda1.0.0.AppImage
 
 支持Ubuntu LTS 14.04以上
 
