@@ -16,6 +16,14 @@ https://github.com/PandaVPN/panda/releases/download/macosv3.2.0/Panda3.2.0.dmg
 
 Support: MacOS 10.10+
 
+## Ubuntu:
+
+https://github.com/PandaVPN/panda/releases/download/ubuntu.v1.0.0/Panda1.0.0.AppImage
+
+支持Ubuntu LTS 14.04以上
+
+Support: Ubuntu LTS 14.04+
+
 ## Android (Panda VPN Pro - Fastest, Private, Secure VPN Proxy)：
 
 https://github.com/PandaVPN/panda/releases/download/android.v4.4.2/android.v4.4.2.apk
