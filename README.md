@@ -16,7 +16,7 @@ https://github.com/PandaVPN/panda/releases/download/macosv3.2.0/Panda3.2.0.dmg
 
 Support: MacOS 10.10+
 
-## Ubuntu:
+## Linux:
 
 https://github.com/PandaVPN/panda/releases/download/linuxv1.0.0/Panda1.0.0.AppImage
 
