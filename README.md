@@ -48,7 +48,7 @@ Please switch to the following US App Store account and search "pandavpn pro" to
 
 Apple ID：pandaprop3@outlook.com  密码：Pandapro4
 
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro4
+Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro5
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
