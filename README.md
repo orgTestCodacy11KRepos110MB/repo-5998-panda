@@ -98,6 +98,7 @@ Please switch to the following US App Store account and search "panda vpn" to do
 https://www.pandaconno.xyz/region-guide-ios
 
 公用账号：
+
 Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro5
 
 Apple ID：pandaprop3@outlook.com  密码：Pandapro5
