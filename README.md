@@ -34,6 +34,14 @@ https://github.com/PandaVPN/panda/releases/download/android.v4.5.0/android.v4.5.
 
 Support: Android 5.0+
 
+## Android TV（PandaVPN Free -To be the best and fastest free VPN）
+
+https://github.com/PandaVPN/panda/releases/download/androidtv.v1.0.0/Panda-AndroidTV-v1.0.0.apk
+
+支持Android 5.0+
+
+Support: Android 5.0+
+
 ## iOS (Panda VPN Pro)：
 
 https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1
