@@ -92,9 +92,11 @@ https://apps.apple.com/us/app/panda-vpn-lite-the-best-vpn/id1466932207?l=zh&ls=1
 Support: iOS 11+
 
 部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区或者使用公用账号搜索“pandavpn”进行下载
+
 Please switch to the following US App Store account and search "panda vpn" to download
 
 修改自己Apple账号的地区教程：  
+
 https://www.pandaconno.xyz/region-guide-ios
 
 公用账号：
