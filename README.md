@@ -1,4 +1,4 @@
-# Panda VPN Pro
+# PandaVPN Pro
 
 ## Windows：
 
@@ -24,7 +24,7 @@ https://github.com/PandaVPN/panda/releases/download/linuxv3.4.0/Panda3.4.0.AppIm
 
 Support: Ubuntu LTS 14.04+
 
-## Android (Panda VPN Pro - Fastest, Private, Secure VPN Proxy)：
+## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
 https://github.com/PandaVPN/panda/releases/download/android.v4.5.0/android.v4.5.0.apk
 
@@ -42,7 +42,7 @@ https://github.com/PandaVPN/panda/releases/download/androidtv.v1.0.0/Panda-Andro
 
 Support: Android 5.0+
 
-## iOS (Panda VPN Pro)：
+## iOS (PandaVPN Pro)：
 
 https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1
 
@@ -71,9 +71,9 @@ Note: (Important !!!)
 
 Please follow the above 2 steps, otherwise your phone could be locked!
 
-# Panda VPN Free
+# PandaVPN Free
 
-## Android (Panda VPN Free -The best and fastest free VPN)：
+## Android (PandaVPN Free -The best and fastest free VPN)：
 
 https://github.com/PandaVPN/panda/releases/download/androidfree.v3.5.0/pandavpnfreev3.5.0.apk
 
@@ -83,7 +83,7 @@ https://github.com/PandaVPN/panda/releases/download/androidfree.v3.5.0/pandavpnf
 
 Support: Android 5.0+
 
-## iOS (Panda VPN Lite)：
+## iOS (PandaVPN Lite)：
 
 https://apps.apple.com/us/app/panda-vpn-lite-the-best-vpn/id1466932207?l=zh&ls=1
 
