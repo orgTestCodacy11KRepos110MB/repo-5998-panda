@@ -96,7 +96,6 @@ Support: iOS 11+
 Please switch to the following US App Store account and search "panda vpn" to download
 
 修改自己Apple账号的地区教程：  
-
 https://www.pandaconno.xyz/region-guide-ios
 
 公用账号：
