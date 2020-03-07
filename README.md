@@ -93,12 +93,17 @@ Support: iOS 11+
 
 部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区或者使用公用账号搜索“pandavpn”进行下载
 
-Please switch to the following US App Store account and search "panda vpn" to download
+App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID or use the public AppleID to search "pandavpn" and install. 
 
 修改自己Apple账号的地区教程：  
+
+Steps of editing the region of AppleID:
+
 https://www.pandaconno.xyz/region-guide-ios
 
 公用账号：
+
+Public AppleID：
 
 Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro5
 
