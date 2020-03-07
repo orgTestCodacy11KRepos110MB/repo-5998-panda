@@ -50,9 +50,17 @@ https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1
 
 Support: iOS 11+
 
-PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“panda vpn pro”进行下载：
+部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区或者使用公用账号搜索“pandavpn”进行下载
 
-Please switch to the following US App Store account and search "pandavpn pro" to download
+App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID or use the public AppleID to search "pandavpn" and install. 
+
+修改自己Apple账号的地区教程：  
+
+Steps of editing the region of AppleID:
+
+https://www.pandaconno.xyz/region-guide-ios
+
+Public AppleID：
 
 Apple ID：pandaprop3@outlook.com  密码：Pandapro5
 
