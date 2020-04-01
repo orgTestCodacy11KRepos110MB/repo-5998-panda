@@ -62,9 +62,9 @@ https://www.pandaconno.xyz/region-guide-ios
 
 Public AppleID：
 
-Apple ID：pandaprop3@outlook.com  密码：Pandapro6
+Apple ID：pandaprop3@outlook.com  密码：Pandapro7
 
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro7
+Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro8
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
@@ -113,9 +113,9 @@ https://www.pandaconno.xyz/region-guide-ios
 
 Public AppleID：
 
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro7
+Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro8
 
-Apple ID：pandaprop3@outlook.com  密码：Pandapro6
+Apple ID：pandaprop3@outlook.com  密码：Pandapro7
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
