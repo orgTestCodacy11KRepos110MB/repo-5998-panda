@@ -113,7 +113,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 Public AppleID：
 
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro8
+Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro7
 
 Apple ID：pandaprop3@outlook.com  密码：Pandapro6
 
