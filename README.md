@@ -18,9 +18,9 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 https://github.com/PandaVPN/panda/releases/download/qt.v5.0.0/Panda5.0.0.AppImage
 
-支持Ubuntu LTS 14.04以上
+支持Ubuntu LTS 16.04以上
 
-Support: Ubuntu LTS 14.04+
+Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
