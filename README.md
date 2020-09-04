@@ -34,7 +34,7 @@ Support: Android 5.0+
 
 ## Android TV（PandaVPN Free -To be the best and fastest free VPN）
 
-https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.0/Panda-AndroidTV-v2.0.0.apk
+https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.2/Panda-AndroidTV-v2.0.2.apk
 
 支持Android 5.0+
 
