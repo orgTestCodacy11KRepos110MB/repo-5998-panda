@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.0.1/Panda_Setup_5.0.1.exe
+https://github.com/PandaVPN/panda/releases/download/qt.v5.0.2/Panda_Setup_5.0.2.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,13 +10,13 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.0.1/Panda5.0.1.dmg
+支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.0.2/Panda5.0.2.dmg
 
 支持MacOS 10.10-10.11（Support: MacOS 10.10-10.11）：https://github.com/PandaVPN/panda/releases/download/qt.v4.2.1/Panda4.2.1.dmg
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.0.1/Panda5.0.1.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v5.0.2/Panda5.0.2.AppImage
 
 支持Ubuntu LTS 16.04以上
 
@@ -81,7 +81,7 @@ Please follow the above 2 steps, otherwise your phone could be locked!
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v4.3.4/pandavpnfreev4.3.4.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v4.3.5/pandavpnfreev4.3.5.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
