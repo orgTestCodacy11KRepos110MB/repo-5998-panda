@@ -113,7 +113,7 @@ Public AppleID：
 
 Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro3
 
-Apple ID：pandaprop4@hotmail.com  密码：Pandapro6
+Apple ID：pandaprop4@hotmail.com  密码：Pandapro7
 
 ### 注意：（重要！！！）
 1. 请在AppStore里面登录美区账号（不要在设置里登录）
