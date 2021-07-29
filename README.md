@@ -1,2 +1,2 @@
-[![](https://user-images.githubusercontent.com/49056551/127421328-dce099a3-ca66-4c7e-97d7-ca8be0130baa.png){:height="700px" width="400px"}](https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy)
-[![](https://user-images.githubusercontent.com/49056551/127421327-148e2d14-fd97-4054-8816-69fcb93f3ed0.png){:height="700px" width="400px"}](https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1)
+<a href="https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy"><img src="https://user-images.githubusercontent.com/49056551/127421328-dce099a3-ca66-4c7e-97d7-ca8be0130baa.png" width="500" height="280"></a>
+<a href="https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1"><img src="https://user-images.githubusercontent.com/49056551/127421327-148e2d14-fd97-4054-8816-69fcb93f3ed0.png" width="500" height="280"></a>
