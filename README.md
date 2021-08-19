@@ -65,14 +65,14 @@ Apple ID：pandaprop4@hotmail.com  密码：Pandapro16
 Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro3
 
 ### 注意：（重要！！！）
-1. 请在AppStore里面登录美区账号（不要在设置里登录）
+1. 请在AppStore或手机设置里面登录美区账号（不要在网页登录）
 2. 下载完Panda以后，请及时退出账号
 3. 请勿回答任何安全提示问题
 
 请务必遵守以上2条，不然手机有被锁的风险！
 
 Note: (Important !!!)
-1. Please log in to the US AppleID in the AppStore ( not in the settings)
+1. Please log in to the US Apple ID in the AppStore or in the phone settings ( not in the website)
 2. After downloading Panda, please log out it in time
 
 Please follow the above 2 steps, otherwise your phone could be locked!
