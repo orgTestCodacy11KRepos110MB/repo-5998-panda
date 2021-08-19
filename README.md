@@ -69,13 +69,14 @@ Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro3
 2. 下载完Panda以后，请及时退出账号
 3. 请勿回答任何安全提示问题
 
-请务必遵守以上2条，不然手机有被锁的风险！
+请务必遵守以上3条，不然手机有被锁的风险！
 
 Note: (Important !!!)
 1. Please log in to the US Apple ID in the AppStore or in the phone settings ( not in the website)
 2. After downloading Panda, please log out it in time
+3. Please do not answer any security questions
 
-Please follow the above 2 steps, otherwise your phone could be locked!
+Please follow the above 3 steps, otherwise your phone could be locked!
 
 # PandaVPN Free
 
@@ -120,11 +121,12 @@ Apple ID：pandaprop4@hotmail.com  密码：Pandapro7
 2. 下载完Panda以后，请及时退出账号
 3. 请勿回答任何安全提示问题
 
-请务必遵守以上2条，不然手机有被锁的风险！
+请务必遵守以上3条，不然手机有被锁的风险！
 
 Note: (Important !!!)
 1. Please log in to the US Apple ID in the AppStore or in the phone settings ( not in the website)
 2. After downloading Panda, please log out it in time
+3. Please do not answer any security questions
 
-Please follow the above 2 steps, otherwise your phone could be locked!
+Please follow the above 3 steps, otherwise your phone could be locked!
 
