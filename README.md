@@ -48,9 +48,9 @@ https://apps.apple.com/us/app/panda-vpn-pro-fastest-proxy/id1450910298?l=zh&ls=1
 
 Support: iOS 11+
 
-部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区或者使用公用账号搜索“pandavpn”进行下载
+部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区并搜索“pandavpn”进行下载
 
-App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID or use the public AppleID to search "pandavpn" and install. 
+App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID and search "pandavpn" and install. 
 
 修改自己Apple账号的地区教程：  
 
@@ -58,25 +58,9 @@ Steps of editing the region of AppleID:
 
 https://www.pandaconno.xyz/region-guide-ios
 
-Public AppleID：
 
-Apple ID：pandaprop4@hotmail.com  密码：Pandapro16
 
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro3
 
-### 注意：（重要！！！）
-1. 请在AppStore或手机设置里面登录美区账号（不要在网页登录）
-2. 下载完Panda以后，请及时退出账号
-3. 请勿回答任何安全提示问题
-
-请务必遵守以上3条，不然手机有被锁的风险！
-
-Note: (Important !!!)
-1. Please log in to the US Apple ID in the AppStore or in the phone settings ( not in the website)
-2. After downloading Panda, please log out it in time
-3. Please do not answer any security questions
-
-Please follow the above 3 steps, otherwise your phone could be locked!
 
 # PandaVPN Free
 
@@ -98,9 +82,9 @@ https://apps.apple.com/us/app/panda-vpn-lite-the-best-vpn/id1466932207?l=zh&ls=1
 
 Support: iOS 11+
 
-部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区或者使用公用账号搜索“pandavpn”进行下载
+部分地区App Store不支持PandaVPN下载，请修改自己Apple账号的地区并搜索“pandavpn”进行下载
 
-App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID or use the public AppleID to search "pandavpn" and install. 
+App Store in some certain regions do not support to download PandaVPN.  Please edit the region of your own AppleID and search "pandavpn" and install. 
 
 修改自己Apple账号的地区教程：  
 
@@ -108,25 +92,5 @@ Steps of editing the region of AppleID:
 
 https://www.pandaconno.xyz/region-guide-ios
 
-公用账号：
 
-Public AppleID：
-
-Apple ID：pandavpnpro1@hotmail.com  密码：Pandapro3
-
-Apple ID：pandaprop4@hotmail.com  密码：Pandapro7
-
-### 注意：（重要！！！）
-1. 请在AppStore或手机设置里面登录美区账号（不要在网页登录）
-2. 下载完Panda以后，请及时退出账号
-3. 请勿回答任何安全提示问题
-
-请务必遵守以上3条，不然手机有被锁的风险！
-
-Note: (Important !!!)
-1. Please log in to the US Apple ID in the AppStore or in the phone settings ( not in the website)
-2. After downloading Panda, please log out it in time
-3. Please do not answer any security questions
-
-Please follow the above 3 steps, otherwise your phone could be locked!
 
