@@ -66,7 +66,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v4.5.8/pandafreeNormal_4.5.8_100_1108_08101335_release.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v4.6.0/pandafreeNormal_4.6.0_104_1140_11170855_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
