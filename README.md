@@ -16,7 +16,7 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1-x86_64.AppImage
 
 支持Ubuntu LTS 16.04以上
 
@@ -24,7 +24,7 @@ Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v5.5.8/android.v5.5.8.apk
+https://github.com/PandaVPN/panda/releases/download/android.v5.5.8/pandaNormal_5.5.8_99_1140_11170849_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -34,7 +34,7 @@ Support: Android 5.0+
 
 ## Android TV（PandaVPN Pro -To be the best and fastest free VPN）
 
-https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.4/Panda-AndroidTV-v2.0.4.apk
+https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.4/panda_tv_normal_2.0.4_11_11231503_release.apk
 
 支持Android 5.0+
 
@@ -66,7 +66,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v4.5.7/pandavpnfreev4.5.7.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v4.5.8/pandafreeNormal_4.5.8_100_1108_08101335_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
