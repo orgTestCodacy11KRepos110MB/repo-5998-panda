@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.3.0/Panda_Setup_5.3.0.exe
+https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda_Setup_5.3.1.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,13 +10,13 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.3.0/Panda5.3.0.dmg
+支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1.dmg
 
 支持MacOS 10.10-10.11（Support: MacOS 10.10-10.11）：https://github.com/PandaVPN/panda/releases/download/qt.v4.2.1/Panda4.2.1.dmg
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.2.0/Panda5.2.0.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1.AppImage
 
 支持Ubuntu LTS 16.04以上
 
@@ -24,7 +24,7 @@ Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v5.5.4/android.v5.5.4.apk
+https://github.com/PandaVPN/panda/releases/download/android.v5.5.8/android.v5.5.8.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -34,7 +34,7 @@ Support: Android 5.0+
 
 ## Android TV（PandaVPN Pro -To be the best and fastest free VPN）
 
-https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.3/Panda-AndroidTV-v2.0.3.apk
+https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.4/Panda-AndroidTV-v2.0.4.apk
 
 支持Android 5.0+
 
@@ -66,7 +66,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v4.5.3/pandavpnfreev4.5.3.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v4.5.7/pandavpnfreev4.5.7.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
