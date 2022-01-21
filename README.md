@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda_Setup_5.3.1.exe
+https://github.com/PandaVPN/panda/releases/download/qt.v5.3.2/Panda_Setup_5.3.2.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,13 +10,13 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1.dmg
+支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v5.3.2/Panda5.3.2.dmg
 
 支持MacOS 10.10-10.11（Support: MacOS 10.10-10.11）：https://github.com/PandaVPN/panda/releases/download/qt.v4.2.1/Panda4.2.1.dmg
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v5.3.1/Panda5.3.1-x86_64.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v5.3.2/Panda5.3.2-x86_64.AppImage
 
 支持Ubuntu LTS 16.04以上
 
@@ -24,7 +24,7 @@ Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v5.5.8/pandaNormal_5.5.8_99_1140_11170849_release.apk
+https://github.com/PandaVPN/panda/releases/download/android.v5.6.0/panda_pro_normal_5.6.0_100_1184_12231753_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -34,7 +34,7 @@ Support: Android 5.0+
 
 ## Android TV（PandaVPN Pro -To be the best and fastest free VPN）
 
-https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.4/panda_tv_normal_2.0.4_11_11231503_release.apk
+https://github.com/PandaVPN/panda/releases/download/androidtv.v2.0.5/panda_tv_normal_2.0.5_12_21_01131736_release.apk
 
 支持Android 5.0+
 
@@ -66,7 +66,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v4.6.0/pandafreeNormal_4.6.0_104_1140_11170855_release.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v4.6.1/panda_lite_normal_4.6.1_105_1184_12231538_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
