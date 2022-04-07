@@ -16,7 +16,7 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v6.0.0/Panda6.0.0-x86_64.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v6.0.0/panda6.0.0-x86_64.appimage
 
 支持Ubuntu LTS 16.04以上
 
