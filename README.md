@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/qt.v6.1.0/Panda_Setup_6.1.0.exe
+https://github.com/PandaVPN/panda/releases/download/qt.v6.2.0/Panda_Setup_6.2.0.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,13 +10,13 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v6.1.0/Panda6.1.0.dmg
+支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v6.2.0/Panda6.2.0.dmg
 
 支持MacOS 10.10-10.11（Support: MacOS 10.10-10.11）：https://github.com/PandaVPN/panda/releases/download/qt.v4.2.1/Panda4.2.1.dmg
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v6.1.0/Panda6.1.0-x86_64.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v6.2.0/Panda6.2.0-x86_64.AppImage
 
 支持Ubuntu LTS 16.04以上
 
@@ -24,7 +24,7 @@ Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v6.2.0/panda_pro_normal_6.2.0_118_1246_06161806_release.apk
+https://github.com/PandaVPN/panda/releases/download/android.v6.3.0/panda_pro_normal_6.3.0_121_1237_07181048_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -56,7 +56,7 @@ App Store in some certain regions do not support to download PandaVPN.  Please e
 
 Steps of editing the region of AppleID:
 
-https://www.pandaconno.xyz/region-guide-ios
+https://www.pandavpnpro.com/region-guide-ios
 
 
 
@@ -66,7 +66,7 @@ https://www.pandaconno.xyz/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v6.2.0/panda_lite_normal_6.2.0_118_1246_06161801_release.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v6.3.1/panda_lite_normal_6.3.1_122_1236_07180929_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
