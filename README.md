@@ -24,7 +24,7 @@ Support: Ubuntu LTS 16.04+
 
 ## Android (PandaVPN Pro - Fastest, Private, Secure VPN Proxy)：
 
-https://github.com/PandaVPN/panda/releases/download/android.v6.4.0/panda_pro_normal_6.4.0_124_1252_07291429_release.apk
+https://github.com/PandaVPN/panda/releases/download/android.v6.5.4/panda_pro_normal_6.5.4_129_1282_08241934_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
@@ -66,7 +66,7 @@ https://www.pandavpnpro.com/region-guide-ios
 
 ## Android (PandaVPN Free -The best and fastest free VPN)：
 
-https://github.com/PandaVPN/panda/releases/download/androidfree.v6.4.0/panda_lite_normal_6.4.0_124_1252_07291428_release.apk
+https://github.com/PandaVPN/panda/releases/download/androidfree.v6.5.4/panda_lite_normal_6.5.4_129_1282_08241929_release.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpnfree.androidproxy
 
