@@ -2,7 +2,7 @@
 
 ## Windows：
 
-https://github.com/PandaVPN/panda/releases/download/qt.v6.2.1/Panda_Setup_6.2.1.exe
+https://github.com/PandaVPN/panda/releases/download/qt.v6.2.2/Panda_Setup_6.2.2.exe
  
 支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
@@ -10,13 +10,13 @@ Support: Win7/Win8/Win10, please exit the anti-virus software before downloading
 
 ## Mac：
 
-支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v6.2.1/Panda6.2.1.dmg
+支持MacOS 10.12 +（Support: MacOS 10.12+）：https://github.com/PandaVPN/panda/releases/download/qt.v6.2.2/Panda6.2.2.dmg
 
 支持MacOS 10.10-10.11（Support: MacOS 10.10-10.11）：https://github.com/PandaVPN/panda/releases/download/qt.v4.2.1/Panda4.2.1.dmg
 
 ## Linux:
 
-https://github.com/PandaVPN/panda/releases/download/qt.v6.2.1/Panda6.2.1-x86_64.AppImage
+https://github.com/PandaVPN/panda/releases/download/qt.v6.2.2/Panda6.2.2-x86_64.AppImage
 
 支持Ubuntu LTS 16.04以上
 
